@@ -1,7 +1,6 @@
 # Goruntu Isleme
 Bu uygulama ile yüzün belirli bölgeleri ile işlmeler yapılıyor
-
-# Sayfalardaki 'camera = cv.VideoCapture("VideoFile.mp4")' kısmını 'camera = cv.VideoCapture(0)' yaparak pc kamerasından görüntü alabilirsiniz.
+Sayfalardaki 'camera = cv.VideoCapture("VideoFile.mp4")' kısmını 'camera = cv.VideoCapture(0)' yaparak pc kamerasından görüntü alabilirsiniz.
 
 # blink.py
 Bu sayfada göz kırpma sayısı hesaplanıyor
